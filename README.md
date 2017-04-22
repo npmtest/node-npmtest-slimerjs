@@ -1,4 +1,7 @@
-# test coverage for  [slimerjs (v0.10.3)](https://github.com/laurentj/slimerjs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-slimerjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slimerjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slimerjs.svg)](https://travis-ci.org/npmtest/node-npmtest-slimerjs)
+# npmtest-slimerjs
+
+#### basic test coverage for  [slimerjs (v0.10.3)](https://github.com/laurentj/slimerjs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-slimerjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slimerjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slimerjs.svg)](https://travis-ci.org/npmtest/node-npmtest-slimerjs)
+
 #### A scriptable browser like PhantomJS, based on Firefox
 
 [![NPM](https://nodei.co/npm/slimerjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/slimerjs)
